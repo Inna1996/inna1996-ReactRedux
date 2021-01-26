@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/inna1996-ReactRedux/static/css/main.8eac0e92.chunk.css",
+    "main.js": "/inna1996-ReactRedux/static/js/main.2c18da34.chunk.js",
+    "main.js.map": "/inna1996-ReactRedux/static/js/main.2c18da34.chunk.js.map",
+    "runtime-main.js": "/inna1996-ReactRedux/static/js/runtime-main.69f894a3.js",
+    "runtime-main.js.map": "/inna1996-ReactRedux/static/js/runtime-main.69f894a3.js.map",
+    "static/css/2.4d98ed14.chunk.css": "/inna1996-ReactRedux/static/css/2.4d98ed14.chunk.css",
+    "static/js/2.e56aff0e.chunk.js": "/inna1996-ReactRedux/static/js/2.e56aff0e.chunk.js",
+    "static/js/2.e56aff0e.chunk.js.map": "/inna1996-ReactRedux/static/js/2.e56aff0e.chunk.js.map",
+    "static/css/3.6b2e3461.chunk.css": "/inna1996-ReactRedux/static/css/3.6b2e3461.chunk.css",
+    "static/js/3.0618feb7.chunk.js": "/inna1996-ReactRedux/static/js/3.0618feb7.chunk.js",
+    "static/js/3.0618feb7.chunk.js.map": "/inna1996-ReactRedux/static/js/3.0618feb7.chunk.js.map",
+    "static/css/4.f0fd7d9a.chunk.css": "/inna1996-ReactRedux/static/css/4.f0fd7d9a.chunk.css",
+    "static/js/4.f0ca2157.chunk.js": "/inna1996-ReactRedux/static/js/4.f0ca2157.chunk.js",
+    "static/js/4.f0ca2157.chunk.js.map": "/inna1996-ReactRedux/static/js/4.f0ca2157.chunk.js.map",
+    "static/js/5.0ddc376b.chunk.js": "/inna1996-ReactRedux/static/js/5.0ddc376b.chunk.js",
+    "static/js/5.0ddc376b.chunk.js.map": "/inna1996-ReactRedux/static/js/5.0ddc376b.chunk.js.map",
+    "index.html": "/inna1996-ReactRedux/index.html",
+    "static/css/2.4d98ed14.chunk.css.map": "/inna1996-ReactRedux/static/css/2.4d98ed14.chunk.css.map",
+    "static/css/3.6b2e3461.chunk.css.map": "/inna1996-ReactRedux/static/css/3.6b2e3461.chunk.css.map",
+    "static/css/4.f0fd7d9a.chunk.css.map": "/inna1996-ReactRedux/static/css/4.f0fd7d9a.chunk.css.map",
+    "static/css/main.8eac0e92.chunk.css.map": "/inna1996-ReactRedux/static/css/main.8eac0e92.chunk.css.map",
+    "static/js/2.e56aff0e.chunk.js.LICENSE.txt": "/inna1996-ReactRedux/static/js/2.e56aff0e.chunk.js.LICENSE.txt",
+    "static/media/spinner.8dd760fd.svg": "/inna1996-ReactRedux/static/media/spinner.8dd760fd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69f894a3.js",
+    "static/css/2.4d98ed14.chunk.css",
+    "static/js/2.e56aff0e.chunk.js",
+    "static/css/main.8eac0e92.chunk.css",
+    "static/js/main.2c18da34.chunk.js"
+  ]
+}
