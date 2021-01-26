@@ -1,0 +1,31 @@
+.messages {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    max-width: 255px;
+    word-wrap: break-word;
+
+    line-height: 24px;
+
+}
+
+.wrapper_mess {
+    color: white;
+    background: #0B93F6;
+    align-self: flex-end;
+    position: relative;
+    padding: 10px 20px;
+    border-radius: 9px;
+    margin-bottom: 12px;
+}
+
+.wrapper_mess:before {
+    position: absolute;
+    content: "";
+    right: -5px;
+    top: 26px;
+    transform: scaleY(0.5) rotate(45deg);
+    width: 20px;
+    height: 20px;
+    background: #0B93F6;
+    box-shadow: 5px -5px 10px #C0C0C0;
+
+}

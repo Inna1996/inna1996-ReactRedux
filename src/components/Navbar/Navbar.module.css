@@ -1,0 +1,25 @@
+.nav {
+    grid-area: n;
+    background-color: darkslategrey;
+    padding: 20px;
+}
+
+.nav_wrapper {
+    margin-bottom: 70%;
+}
+
+.nav_item {
+    margin-bottom: 10px;
+
+    font-size: 18px;
+}
+
+.nav_item a {
+    color: white;
+    text-decoration: none;
+}
+
+a.activeLink {
+    color: gold;
+    font-size: 20px;
+}

@@ -1,0 +1,15 @@
+.bigImg img {
+    width: 160px;
+    border-radius: 20px;
+    box-shadow: 0 13px 18px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.description {
+    padding: 15px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.contact {
+    padding-left: 10px;
+}
